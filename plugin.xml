@@ -184,9 +184,9 @@
             </dict>
           </array>
         </config-file>
-        <!--
-        <dependency id="com.googlemaps.ios" url="https://github.com/wf9a5m75/googlemaps-ios-sdk-for-phonegap" commit="master" />
-        -->
+        
+        <dependency id="com.googlemaps.ios" url="https://github.com/wf9a5m75/googlemaps-ios-sdk-for-phonegap" commit="b580d00b47fc2981fec17d9942332fe794ebd62a" />
+        
         
     </platform>
 </plugin>
